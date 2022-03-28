@@ -1,0 +1,20 @@
+body {
+    width: 600px;
+    height: 2000px;
+    font-family: 'arial';
+    font-size: 24px;
+    margin: auto;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+.kotak {
+    width: 200px;
+    height: 200px;
+    background-color: salmon;
+    margin: auto;
+}
